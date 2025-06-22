@@ -31,3 +31,15 @@ These solutions represent my personal approach to solving LeetCode problems. Rem
 Thanks to LeetHub for making this automatic syncing possible.
 
 Happy coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prashanthbaskar97/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/prashanthbaskar97/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
